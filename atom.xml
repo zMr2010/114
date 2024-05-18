@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zMr2010.github.io</id>
+    <title>zMr の blog</title>
+    <updated>2024-05-18T01:44:24.121Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zMr2010.github.io"/>
+    <link rel="self" href="https://zMr2010.github.io/atom.xml"/>
+    <subtitle>山不在高，有仙则名。
+水不在深，有龙则灵。
+山不厌高，海不厌深。</subtitle>
+    <logo>https://zMr2010.github.io/images/avatar.png</logo>
+    <icon>https://zMr2010.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, zMr の blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://zMr2010.github.io/post/hello-gridea/</id>
+        <link href="https://zMr2010.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
